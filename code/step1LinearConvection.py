@@ -5,3 +5,6 @@
 # Time derivative: Forward Difference scheme
 # Space derivative: Backward Difference scheme
 
+import numpy
+from matplotlib import pyplot
+import time,sys
